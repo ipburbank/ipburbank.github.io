@@ -16,6 +16,7 @@ Similar to Endless Forms - users are presented with several mutations and choose
 *** Technical Components
 + Based front-end off of Endless Forms: Update option-display JS and leaderboards
 + Develop game simulator. Likely based on existing soft-robot software.
++ Evolution is on the server.
 + Develop algorithms.
 
 ** Option 2: Tournament Entrant
