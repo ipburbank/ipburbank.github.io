@@ -11,7 +11,12 @@ The proposal is to create a "game" which is publically available with the primar
 ** Fitness Evaluation
 Similar to Endless Forms - users are presented with several mutations and choose several that they think are most fit.
 *** TODO Outcomes
-+ Paper on: 
++ Paper on:
+
+*** Technical Components
++ Based front-end off of Endless Forms: Update option-display JS and leaderboards
++ Develop game simulator. Likely based on existing soft-robot software.
++ Develop algorithms.
 
 ** Tournament Entrant
 Users design a "robot" through a simple interface that competes against a computer-generated "robot". A round-based game encourages incremental improvement in the user's and computer's robot.
@@ -20,6 +25,12 @@ Users design a "robot" through a simple interface that competes against a comput
   + Comparison of features that develop
   + Comparison of improvement rate (by time and number of generations)
 + Approaches to "train" a geneticly-designed robot for a practical task
+*** Technical Components
++ UI likely needs to be completely re-written
++ Develop in-browser robot designer
++ Develop game simulator (as before)
++ Develop algorithms (as before)
++ If not all simulation is done in-browser, develop server-side evolution. Likely re-using some Endless Forms code.
 
 * Game Ideas
 + Arm wrestle :: Human and computer enter soft robots that compete in arm wrestling matches.
