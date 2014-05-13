@@ -8,7 +8,7 @@ The proposal is to create a "game" which is publically available with the primar
 + Competition between entrants?
 
 * Game Modes
-** Fitness Evaluation
+** Option 1: Fitness Evaluation
 Similar to Endless Forms - users are presented with several mutations and choose several that they think are most fit.
 *** TODO Outcomes
 + Paper on:
@@ -18,13 +18,13 @@ Similar to Endless Forms - users are presented with several mutations and choose
 + Develop game simulator. Likely based on existing soft-robot software.
 + Develop algorithms.
 
-** Tournament Entrant
+** Option 2: Tournament Entrant
 Users design a "robot" through a simple interface that competes against a computer-generated "robot". A round-based game encourages incremental improvement in the user's and computer's robot.
 *** Outcomes
 + Comparison of human vs. computer and computer vs. computer coevolution
   + Comparison of features that develop
   + Comparison of improvement rate (by time and number of generations)
-+ Approaches to "train" a geneticly-designed robot for a practical task
++ Find approaches to "train" a geneticly-designed robot for a practical task
 *** Technical Components
 + UI likely needs to be completely re-written
 + Develop in-browser robot designer
