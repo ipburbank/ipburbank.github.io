@@ -1,0 +1,26 @@
+* Abstract
+The proposal is to create a "game" which is publically available with the primary purpose of exploring human input into evolutionary processes. Modes of input might include fitness evaluation and/or providing an entrant to tournament-based selection.
+
+* Input Medium
++ Web-based
++ Usable by a general audience
++ Exciting
++ Competition between entrants?
+
+* Game Modes
+** Fitness Evaluation
+Similar to Endless Forms - users are presented with several mutations and choose several that they think are most fit.
+*** TODO Outcomes
++ Paper on: 
+
+** Tournament Entrant
+Users design a "robot" through a simple interface that competes against a computer-generated "robot". A round-based game encourages incremental improvement in the user's and computer's robot.
+*** Outcomes
++ Comparison of human vs. computer and computer vs. computer coevolution
+  + Comparison of features that develop
+  + Comparison of improvement rate (by time and number of generations)
++ Approaches to "train" a geneticly-designed robot for a practical task
+
+* Game Ideas
++ Arm wrestle :: Human and computer enter soft robots that compete in arm wrestling matches.
++ Battle Bots :: Build some sort of fighting robots
