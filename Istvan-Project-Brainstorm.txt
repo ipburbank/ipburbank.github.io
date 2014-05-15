@@ -35,4 +35,6 @@ Users design a "robot" through a simple interface that competes against a comput
 
 * Game Ideas
 + Arm wrestle :: Human and computer enter soft robots that compete in arm wrestling matches.
-+ Battle Bots :: Build some sort of fighting robots
+  + When two "muscles" come into contact, both are neutralized 
++ Battle Bots :: Build some sort of fighting robots.
++ Battle Cars :: Design cars that drive into each other head first.
